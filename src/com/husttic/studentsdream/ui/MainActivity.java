@@ -1,4 +1,8 @@
-package com.husttic.studentsdream;
+package com.husttic.studentsdream.ui;
+
+import com.husttic.studentsdream.R;
+import com.husttic.studentsdream.R.layout;
+import com.husttic.studentsdream.R.menu;
 
 import android.os.Bundle;
 import android.app.Activity;
